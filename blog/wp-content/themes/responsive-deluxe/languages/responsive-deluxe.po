@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: responsive-deluxe\n"
+"POT-Creation-Date: 2015-04-03 01:00+0100\n"
+"PO-Revision-Date: 2015-04-03 01:01+0100\n"
+"Last-Translator: Brini Designer <contact@brinidesigner.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Program Files (x86)\\EasyPHP-"
+"DevServer-14.1VC11\\data\\localweb\\reviewer\\wp-content\\themes\\responsive-"
+"deluxe\n"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/404.php:3
+msgid "Error 404 - Page Not Found"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/archive.php:11
+msgid "Category"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/archive.php:14
+msgid "Posts Tagged"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/archive.php:17
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/archive.php:20
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/archive.php:23
+msgid "Archive for"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/archive.php:26
+msgid "Author Archive"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/archive.php:29
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/author-bio.php:10
+msgid "About"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/author-bio.php:15
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/comments.php:11
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/loop.php:8
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/single.php:12
+msgid "No Comments yet"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/comments.php:11
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/loop.php:8
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/single.php:12
+msgid "One Comment"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/comments.php:11
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/loop.php:8
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/single.php:12
+msgid "% Comments"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/footer.php:12
+msgid "All rights reserved"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/footer.php:14
+msgid "Responsive Deluxe developed by"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/functions.php:81
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/functions.php:85
+msgid "(Edit)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/loop.php:20
+msgid "Continue reading"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/search.php:8
+msgid "Search Results for"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/search.php:10
+msgid "Search for"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/search.php:16
+msgid "Nothing found"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/searchform.php:1
+msgid "Search the blog"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/searchform.php:4
+msgid "e.g. Search terms"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/single.php:31
+msgid "Tags: "
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:2
+msgid "Sorry, but you cannot access this page directly."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:29
+msgid "Theme Options"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:65
+msgid "Deluxe Options Page"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:98
+msgid "Upload your logo"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:99
+msgid "Upload a logo, otherwise your blog name will be shown"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:103
+msgid "Logo"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:106
+msgid "Upload Logo"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:115
+msgid "Post View Page"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:119
+msgid "Show author information on post view page"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:126
+msgid "Header and footer code"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:127
+msgid ""
+"Add your custom scripts and styles in the following fields. No need to alter "
+"the themes files."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:131
+msgid "Add Header Script"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:135
+msgid "Add Footer Script"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:143
+msgid "Social Networks"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:144
+msgid "Please use the full URL to your social network pages."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:148
+msgid "Facebook"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:152
+msgid "Twitter"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:156
+msgid "Linkedin"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:160
+msgid "YouTube"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:164
+msgid "Instagram"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:168
+msgid "Google +"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:172
+msgid "Pinterest"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:176
+msgid "Vimeo"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:180
+msgid "Tumblr"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\reviewer\wp-content\themes\responsive-deluxe/inc/theme-options.php:186
+msgid "Save Changes"
+msgstr ""

@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'BDElektra';
+  src: url('http://176.32.230.7/eseomega.com/res/elektra.woff') format('woff'),
+       url('http://176.32.230.7/eseomega.com/res/elektra.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ABeeZee';
+  src: url('http://176.32.230.7/eseomega.com/res/nexa.woff') format('woff'),
+       url('http://176.32.230.7/eseomega.com/res/nexa.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  background-color: #2A82C8;
+}
+a {
+  text-decoration: none;
+}
+#content {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+#links {
+  text-align: center;
+  color: white;
+  font-family: 'ABeeZee', 'Segoe UI', sans-serif;
+  font-size: 22px;
+}
+#logo {
+  height: 400px;
+  z-index: 100;
+  position: relative;
+}
+#nuage1, #nuage2 {
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 130px;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 5px;
+  color: #082136;
+  font-family: BDElektra, 'ABeeZee', 'Segoe UI', sans-serif;
+  position: relative;
+  z-index: 50;
+}
+#nuage1 {
+  width: 280px;
+  padding-top: 85px;
+  padding-left: 15px;
+  top: -400px;
+  left: -230px;
+  background-image: url('http://176.32.230.7/eseomega.com/res/nuage1.png');
+}
+#nuage2 {
+  width: 400px;
+  padding-top: 92px;
+  font-size: 42px;
+  top: -350px;
+  left: 230px;
+  background-image: url('http://176.32.230.7/eseomega.com/res/nuage4.png');
+}
+#nuage2 span {
+  margin-left: -35px;
+}
+
+.appsimg:hover {
+  opacity: 0.55;
+  filter: alpha(opacity=55); /* For IE8 and earlier */
+}

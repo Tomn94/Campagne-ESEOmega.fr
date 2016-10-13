@@ -1,0 +1,24 @@
+Theme Name:   Almasi
+File Name:    Changelog
+Tested up to: 4.1.2
+Stable tag:	  1.0.4
+
+== Changelog ==
+
+= Version: 1.0.4 =
+= Date: 4th May 2015 =
+* Fixed Notice on Undefined Variable: Version in customizer.php on line 404
+
+= 1.0.3 =
+* Fixed: Implemented security patch related to add_query_arg()
+* Fixed: Improper sanitization placements.
+
+= 1.0.2 =
+* Minor code adjustments - files: functions.php, customizer.php & css/style.css
+
+= 1.0.1 =
+* Fixed bug for Read More translation string.
+* Fixed Warnings generated in the Customize section
+
+= 1.0.0 =
+Initial Release 

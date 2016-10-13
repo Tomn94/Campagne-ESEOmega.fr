@@ -1,0 +1,158 @@
+/*
+Responsive Deluxe Copyright Brini Abderrahman 2015
+Theme Name: Responsive Deluxe
+Theme URI: http://brinidesigner.com/wordpress-themes/responsive-deluxe/
+Description: Responsive Deluxe features a very modern design and flat colors designed for clarity. It offers your website visitors visual comfort. Responsive Deluxe was designed, developed and enhanced to look and function regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer. Responsive Deluxe has successfully passed Google Mobile-Friendly tests.
+Author: Brini Abderrahman
+Author URI: http://brinidesigner.com
+Version: 1.1.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blue, gray, green, red, orange, white, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, custom-menu, featured-images, microformats, post-formats, sticky-post, threaded-comments
+Text Domain: responsive-deluxe
+*/
+
+.alignleft {
+	display: inline;
+	float: left;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+}
+
+.aligncenter {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+blockquote.alignleft,
+.wp-caption.alignleft,
+img.alignleft {
+	margin: 0.4em 1.6em 1.6em 0;
+}
+
+blockquote.alignright,
+.wp-caption.alignright,
+img.alignright {
+	margin: 0.4em 0 1.6em 1.6em;
+}
+
+blockquote.aligncenter,
+.wp-caption.aligncenter,
+img.aligncenter {
+	clear: both;
+	margin-top: 0.4em;
+	margin-bottom: 1.6em;
+}
+
+.wp-caption.alignleft,
+.wp-caption.alignright,
+.wp-caption.aligncenter {
+	margin-bottom: 1.2em;
+}
+
+hr {
+	background-color: #eaeaea;
+	background-color: rgba(51, 51, 51, 0.1);
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.6em;
+}
+
+dl {
+	margin-bottom: 1.6em;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-bottom: 1.6em;
+}
+
+thead th, tbody th, tbody td {
+	border: 1px solid #eaeaea;
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+	border-width: 1px 0 0 1px;
+	margin: 0 0 1.6em;
+	table-layout: fixed;
+	width: 100%;
+}
+
+caption,
+th,
+td {
+	font-weight: normal;
+	text-align: left;
+}
+
+th {
+	border-width: 0 1px 1px 0;
+	font-weight: 700;
+}
+
+td {
+	border-width: 0 1px 1px 0;
+}
+
+th, td {
+	padding: 0.4em;
+}
+
+img {
+	-ms-interpolation-mode: bicubic;
+	border: 0;
+	height: auto;
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+del {
+	opacity: 0.8;
+}
+
+.card pre{
+	padding: 10px;
+}
+
+.card ul, .card ol, .card blockquote{
+	margin: 0 30px;
+	padding: 0 20px;
+}
+
+.entry pre{
+	margin: 0;
+	padding: 10px;
+}
+
+.entry > ul, .entry > ol, .entry > blockquote{
+	margin: 0;
+	padding: 0 20px;
+}
+
+.wp-caption{
+	max-width: 100%;
+}
+
+.wp-caption-text{
+	max-width: 100%;
+}
+
+.gallery-caption{
+	color: rgba(51, 51, 51, 0.7);
+	display: block;
+}
+.bypostauthor{
+	color: inherit;
+}
+.sticky{
+	border: rgba(24, 188, 156, 0.5) 1px solid;
+}

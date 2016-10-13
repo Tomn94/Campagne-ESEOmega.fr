@@ -1,0 +1,246 @@
+@media all {
+@font-face {
+  font-family: 'BDElektra';
+  src: url('res/elektra.woff') format('woff'),
+       url('res/elektra.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  margin: 0;
+  background-color: #1982C8;
+  font-family: ABeeZee, Candara, 'Segoe UI', Arial, sans-serif;
+  text-align: center;
+}
+a {
+  outline: 0;
+}
+
+
+header {
+  width: 100%;
+  height: 275px;
+  margin-bottom: -120px;
+  background: -webkit-linear-gradient(#3C64A0 20%, #1982C8 100%);
+  background: -moz-linear-gradient(#3C64A0 20%, #1982C8 100%);
+  background: linear-gradient(#3C64A0 20%, #1982C8 100%);
+  font-family: BDElektra, ABeeZee, 'Segoe UI', sans-serif;
+  letter-spacing: 1.5px;
+  color: rgb(15,45,68);
+  overflow: hidden;
+}
+#logo {
+  display: block;
+  margin: auto;
+  width: 275px;
+  position: relative;
+  z-index: 90;
+  transition: all 0.42s ease-out;
+}
+#logo:hover {
+  -webkit-filter: brightness(1.24);
+  -ms-filter: brightness(1.24);
+  filter: brightness(1.24);
+}
+nav {
+  width: 998px;
+  margin: auto;
+  position: relative;
+	top: -220px;
+  z-index: 80;
+}
+nav ul {
+  padding: 0;
+}
+nav li {
+	display: inline-block;
+	list-style-type: none;
+	font-size: 1.8rem;
+	position: relative;
+	width: 192px;
+	height: 130px;
+	text-align: center;
+  z-index: 70;
+}
+nav a {
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.42s ease-out;
+}
+nav a:hover {
+  color: #2479B7;
+}
+nav p {
+  position: relative;
+  top: -65px;
+  margin: 0;
+  z-index: 78;
+}
+.vide {
+  width: 200px;
+  background: none;
+}
+#nuage1, #nuage2, #nuage3, #nuage4 {
+  height: 133px;
+  display: block;
+  position: relative;
+  margin: auto;
+  transition: all 0.42s ease-out;
+}
+#nuage1 {
+  left: -20px;
+  top: 12px;
+}
+#nuage2 {
+  left: -38px;
+  top: 1px;
+}
+#nuage3 {
+  left: -83px;
+  top: -4px;
+}
+#nuage4 {
+  left: -55px;
+  top: 8px;
+}
+#nuage1:hover, #nuage2:hover, #nuage3:hover, #nuage4:hover {
+  -webkit-filter: brightness(2.7);
+  -ms-filter: brightness(2.7);
+  filter: brightness(2.7);
+}
+.pageSelect img {
+  -webkit-filter: brightness(3.5);
+  -ms-filter: brightness(3.5);
+  filter: brightness(3.5);
+}
+.pageSelect {
+  color: #21A6FF;
+}
+
+
+footer {
+  text-align: center;
+  font-family: BDElektra, ABeeZee, 'Segoe UI', sans-serif;
+  color: #84B5FF;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background: none;
+}
+td {
+  padding: 0;
+  margin: 0;
+  vertical-align: top;
+  background: white;
+}
+.layout {
+  padding: 15px;
+  padding-top: 80px;
+}
+.colonne {
+  background: url('res/col.gif');
+  width: 25px;
+  padding:0px;
+}
+.colhl, .colhr {
+  position: relative;
+  height: 13px;
+  top: 44px;
+  z-index: 60;
+}
+.colhl {
+  left: -467px;
+}
+.colhr {
+  left: 467px;
+}
+.bas {
+  background: url('res/bas.gif');
+  background-repeat: repeat-x;
+  height: 20px;
+  padding: 0;
+}
+
+article {
+  max-width: 1000px;
+  margin: auto;
+  font-size: 1.2rem;
+}
+h1 {
+  font-family: BDElektra, ABeeZee, 'Segoe UI', sans-serif;
+  letter-spacing: 1.5px;
+  font-weight: normal;
+  font-size: 2.2rem;
+  color: rgb(15, 45, 48);
+}
+article td table td {
+  width: 50%;
+}
+
+.badge {
+  border-radius: 5px;
+  height: 60px;
+}
+
+
+}
+@media screen and (max-width: 998px) {
+header {
+  background: -webkit-linear-gradient(#3C64A0 0%, #1982C8 50%);
+  background: -moz-linear-gradient(#3C64A0 0%, #1982C8 50%);
+  background: linear-gradient(#3C64A0 0%, #1982C8 50%);
+}
+.colonne {
+  width: 0px;
+  background: white;
+}
+.colhl, .colhr {
+  display: none;
+}
+article {
+  width: 100%;
+}
+nav {
+  width: 500px;
+  top: -140px;
+}
+nav li {
+  margin-bottom: 10px;
+  top: -200px;
+}
+nav ul li:first-child {
+  top: -160px;
+  left: -125px;
+  z-index: 77;
+}
+nav ul li:nth-child(2) {
+  left: 137px;
+  top: -150px;
+}
+nav ul li:nth-child(4) {
+  left:-78px;
+  top: -300px;
+}
+nav ul li:nth-child(4) p {
+  left: -30px;
+}
+nav ul li:nth-child(5) {
+  left: 115px;
+  top: -310px;
+  z-index: 76;
+}
+.vide {
+  width: 0px;
+}
+article td table tr {
+  display: block;
+}
+article td table td {
+  display: block;
+  padding-bottom: 10px;
+  width: 100%;
+}
+}

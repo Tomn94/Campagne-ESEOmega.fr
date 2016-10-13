@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RSS Image Feed\n"
+"POT-Creation-Date: 2014-11-26 09:39+0200\n"
+"PO-Revision-Date: 2014-11-26 09:57+0200\n"
+"Last-Translator: Waldemar Stoffel <stoffel@atelier-fuenf.de>\n"
+"Language-Team: Waldemar Stoffel <stoffel@atelier-fuenf.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-lib/A5_ImageClass.php:47
+msgid "Permalink to"
+msgstr "Link zu:"
+
+#: class-lib/A5_OptionPageClass.php:31 image-rss.php:149
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: class-lib/A5_OptionPageClass.php:145
+msgid "Click to toggle"
+msgstr "Zum Umschalten klicken"
+
+#: class-lib/RIF_AdminClass.php:102
+msgid ""
+"http://wasistlos.waldemarstoffel.com/plugins-fur-wordpress/rss-image-feed"
+msgstr "http://blog.atelier-fuenf.de/wordpress-plugins/rss-image-feed"
+
+#: class-lib/RIF_AdminClass.php:102
+msgid "Plugin Support"
+msgstr "Plugin Support"
+
+#: class-lib/RIF_AdminClass.php:104
+msgid "Define the size of the images and summary in your feed."
+msgstr "Definiere die Größe der Bilder und des Auszugs in deinem Feed."
+
+#: class-lib/RIF_AdminClass.php:121
+msgid "Debug Info"
+msgstr "Info zur Fehlersuche"
+
+#: class-lib/RIF_AdminClass.php:140
+msgid "RSS Settings"
+msgstr "RSS Einstellungen"
+
+#: class-lib/RIF_AdminClass.php:142
+msgid "Image Size:"
+msgstr "Bildgröße:"
+
+#: class-lib/RIF_AdminClass.php:144
+msgid "Image Number:"
+msgstr "Bildnummer:"
+
+#: class-lib/RIF_AdminClass.php:146
+msgid "Force Excerpt:"
+msgstr "Auszug erzwingen:"
+
+#: class-lib/RIF_AdminClass.php:148
+msgid "Limit Excerpt:"
+msgstr "Auszug limitieren:"
+
+#: class-lib/RIF_AdminClass.php:154
+msgid "Change the size of the image and the excerpt here."
+msgstr "Ändere die Größe des Bildes und des Auszuges hier."
+
+#: class-lib/RIF_AdminClass.php:160
+msgid ""
+"Give here only the longest side of the image. The smaller side will be "
+"counted on displaying the image. There will be no cropping."
+msgstr ""
+"Gib hier nur die längste Seite de Bildes an. Die kleinere Seite wird beim "
+"erstellen des Feed berechnet. Die Bilder werden nicht beschnitten."
+
+#: class-lib/RIF_AdminClass.php:166
+#, php-format
+msgid ""
+"To use an image of the post instead of the post thumbnail, enter the number "
+"of that image. The word %s will bring the last image of the post."
+msgstr ""
+"Um ein Artikelbild anstelle des Post Thumbnails anzuzeigen, gib die Nummer "
+"des Bildes an. Das Wort %s wird das letzte Bild des Artikels anzeigen."
+
+#: class-lib/RIF_AdminClass.php:172
+msgid ""
+"Click, to limit the post content to a summary if the post doesn&#39;t have "
+"an excerpt."
+msgstr ""
+"Anklicken um einen Auszug im Feed zu erzwingen, wenn der Artikel keinen "
+"Auszug hat."
+
+#: class-lib/RIF_AdminClass.php:178
+msgid ""
+"How long should the summary of the article be? Enter the number of sentences "
+"here."
+msgstr ""
+"Wie lang sollte der Auszug des Artikels sein? Gib die Anzahl der Sätze hier "
+"ein."
+
+#: class-lib/RIF_AdminClass.php:191
+msgid "Please enter a numeric value for the image size."
+msgstr "Bitte einen numerischen Wert für die Bildgröße eingeben."
+
+#: class-lib/RIF_AdminClass.php:199
+msgid "Please enter a numeric value for the excerpt length."
+msgstr "Bitte einen numerischen Wert für die Länge des Auszugs eingeben."
+
+#: class-lib/RIF_AdminClass.php:209
+msgid "Imagesize too large. Please choose a value smaller than 1000."
+msgstr "Bildgröße zu groß. Bitte wähle einen Wert kleiner als 1000."
+
+#: image-rss.php:138
+msgid "FAQ"
+msgstr "FAQ"
+
+#: image-rss.php:139
+msgid "Donate"
+msgstr "Spenden"
+
+#: image-rss.php:157
+msgid "RSS Image"
+msgstr "RSS-Bild"
