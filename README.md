@@ -6,7 +6,7 @@
 
 App de campagne : [Campagne-ESEOmega](https://github.com/Tomn94/Campagne-ESEOmega)
 
-<img src="/Homepage.png?raw=true" height="320" /><img src="/Team.png?raw=true" height="320" />
+<img src="/Homepage.png?raw=true" height="320" /> <img src="/Team.png?raw=true" height="320" />
 
 
 ## Description
