@@ -1,13 +1,12 @@
 # Site de campagne ESEOmega + QRcode API apps · BDE ESEO
 
-![Code](https://img.shields.io/badge/code-HTML PHP CSS JavaScript SQL-orange.svg)
-[![Contributors](https://img.shields.io/badge/contributors-Thomas NAUDET · Alexis Louis-blue.svg)](http://twitter.com/tomn94)
-[![Licence](https://img.shields.io/badge/licence-GNU GPLv3-lightgrey.svg)](http://www.gnu.org/licenses/)
+![Code](https://img.shields.io/badge/code-HTML%20PHP%20CSS%20JavaScript%20SQL-orange.svg)
+[![Contributors](https://img.shields.io/badge/contributors-Thomas%20NAUDET%20·%20Alexis%20Louis-blue.svg)](http://twitter.com/tomn94)
+[![Licence](https://img.shields.io/badge/licence-GNU%20GPLv3-lightgrey.svg)](http://www.gnu.org/licenses/)
 
 App de campagne : [Campagne-ESEOmega](https://github.com/Tomn94/Campagne-ESEOmega)
 
-<img src="/Homepage.png?raw=true" height="320" />
-<img src="/Team.png?raw=true" height="320" />
+<img src="/Homepage.png?raw=true" height="320" /><img src="/Team.png?raw=true" height="320" />
 
 
 ## Description
